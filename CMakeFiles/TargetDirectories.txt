@@ -1,0 +1,3 @@
+/home/max/benchmarks/CMakeFiles/rebuild_cache.dir
+/home/max/benchmarks/CMakeFiles/main.dir
+/home/max/benchmarks/CMakeFiles/edit_cache.dir
